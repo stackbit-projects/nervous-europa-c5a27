@@ -22,6 +22,7 @@ params:
     - title: FAQ
       url: /faq
       style: link
+  domain: 'https://nervous-europa-c5a27.netlify.app'
 taxonomies:
   stub: stub
 disableKinds:
